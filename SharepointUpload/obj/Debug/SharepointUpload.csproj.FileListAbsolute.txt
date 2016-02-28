@@ -1,0 +1,23 @@
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.exe.config
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.exe
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.SharepointUpload.resources
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.Properties.Resources.resources
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.csproj.GenerateResource.Cache
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.exe
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.pdb
+c:\users\vtravalja\documents\visual studio 2012\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.csprojResolveAssemblyReference.cache
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.exe.config
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.exe
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.pdb
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.csprojResolveAssemblyReference.cache
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.SharepointUpload.resources
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.Properties.Resources.resources
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.csproj.GenerateResource.Cache
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.exe
+C:\Users\prometheus\Documents\Projects(2)\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.pdb
+C:\Users\prometheus\Documents\Visual Studio 2015\Projects\SharepointUpload\SharepointUpload\bin\Debug\SharepointUpload.exe.config
+C:\Users\prometheus\Documents\Visual Studio 2015\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.exe
+C:\Users\prometheus\Documents\Visual Studio 2015\Projects\SharepointUpload\SharepointUpload\obj\Debug\SharepointUpload.pdb
